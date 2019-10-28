@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">GreenCup</string>
+
+    <string-array name="shop_names">
+
+        <item>Abstract LTD Comp.</item>
+        <item>Neural Net Comp. LTD</item>
+        <item>Bon Apetite Inn</item>
+        <item>Freeman Spot</item>
+        <item>African Chicken Inn</item>
+
+    </string-array>
+
+    <string-array name="shop_owners">
+
+        <item>Mrs Rosina Ampah</item>
+        <item>Mrs Emma Naa</item>
+        <item>Mr Jacque Jones</item>
+        <item>Mr Robert Freeman</item>
+        <item>Mrs Republic Afrique</item>
+
+    </string-array>
+
+    <string name="description">This is simply the description of the
+    the item being displayed.When you click Online Video, you can
+        paste in the embed code for the video you want
+        to add.You can also type a keyword to search online
+        for the video that best fits your document.
+        Video provides a powerful way to help you
+        prove your point.When you click Online Video, you
+        can paste in the embed code for the video you want
+        to add.You can also type a keyword to search online
+        for the video that best fits your document
+    </string>
+
+    <string-array name="item_name">
+
+        <item>Nikon Camera</item>
+        <item>Old Elephant</item>
+        <item>Banana</item>
+        <item>Teddy Bear</item>
+        <item>Sports Car</item>
+        <item>Champagne Glass</item>
+        <item>Computer</item>
+        <item>Statue</item>
+        <item>Painting</item>
+        <item>Russion Rooster</item>
+
+    </string-array>
+
+    <string-array name="item_price">
+
+        <item>$400</item>
+        <item>$400</item>
+        <item>$400</item>
+        <item>$400</item>
+        <item>$400</item>
+        <item>$400</item>
+        <item>$400</item>
+        <item>$400</item>
+        <item>$400</item>
+        <item>$400</item>
+
+    </string-array>
+
+
+</resources>
